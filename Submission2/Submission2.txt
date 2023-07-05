@@ -1,0 +1,9 @@
+Unlisted youtube link: https://youtu.be/MOpYnXYFj1M
+
+Paper Title: “Distributed Learning in Wireless Networks_ Recent Progress and Future Challenges”
+
+Paper Link: https://arxiv.org/abs/2104.02151v1
+
+Presentation slides link:https://docs.google.com/presentation/d/1BymugwfbIZCT5Q0CKAlXyM50AFuLUYa-MPtS8J0nkNw/edit?usp=sharing
+Team Number: 05
+Presenter: 20301313 Nurshida Akter Nilima
